@@ -7,3 +7,5 @@ We slice an 256x320 image generated randomly by texture_generator.m into 20 64x6
 
 Firstly, we train our model with 24 labelled images and then we classify each of the sliced subimages. 
 Finally, we evaluate the accuracy of our classifier.
+
+Authors: Apostolos Florakis(https://github.com/apof) - Dimitrios Tsesmelis (https://github.com/JimTsesm)
